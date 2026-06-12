@@ -1,0 +1,6 @@
+{
+  "name": "cashback-monitor",
+  "scripts": {
+    "start": "node monitor-service.js"
+  }
+}
